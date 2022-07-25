@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Users/stephenkirschbaum1/Downloads/war-card-game/.metadata/.plugins/org.eclipse.jdt.core
+2784456655.index
+1158570130.index
